@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou Spotakk! 👋
 
-<!--
-**spotakk/Spotakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor front-end apaixonado por criar interfaces bonitas e funcionais. Trabalho com **HTML**, **CSS**, **JavaScript**, **Vue.js**, **Node.js** e, ocasionalmente, **Python** no backend.
 
-Here are some ideas to get you started:
+## Tecnologias que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **HTML5**, **CSS3**, **Tailwind CSS**
+- **JavaScript**, **Vue.js**
+- **Node.js**, **Python** (às vezes)
+
+## Projetos
+
+- [Projeto 1](link-do-projeto): 
+- [Projeto 2](link-do-projeto): 
+
+## Contato
+
+- [LinkedIn](seulinkedin)
+- [Email](seuemail)
+
