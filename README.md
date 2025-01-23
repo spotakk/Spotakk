@@ -8,13 +8,5 @@ Desenvolvedor front-end apaixonado por criar interfaces bonitas e funcionais. Tr
 - **JavaScript**, **Vue.js**
 - **Node.js**, **Python** (às vezes)
 
-## Projetos
 
-- [Projeto 1](link-do-projeto): 
-- [Projeto 2](link-do-projeto): 
-
-## Contato
-
-- [LinkedIn](seulinkedin)
-- [Email](seuemail)
 
