@@ -15,10 +15,10 @@ contributions in the last year
 
 # 💫 Sobre:
 <br>
-:one: Bem-vindo!! A essência do conhecimento consiste em aplicá-lo, uma vez possuído.  <br> 
-:two: Análise e Desenvolvimento de Software. Interesse e Proficiência em Python | HTML5 | CSS 5 | Linguagem C | Lua. <br>
-:three: Eletrotécnico: Competências em instalação e Manutenção em eletroeletrônica Residêncial e Industrial + 10 anos. <br>
-:four: Eletrônica: Competências em Telecomunicações, Automação Residencial e Industrial, Sistemas de Segurança, controle de Acesso e Sistemas de CFTV + 14anos. <br> <br> 
+:one: Bem-vindo!!<br> 
+:two: Análise e Desenvolvimento de Software <br>
+:three: <br>
+:four: <br> <br> 
 
 
 
