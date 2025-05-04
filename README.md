@@ -17,8 +17,8 @@ contributions in the last year
 <br>
 :one: Bem-vindo!!<br> 
 :two: Análise e Desenvolvimento de Software <br>
-:three: <br>
-:four: <br> <br> 
+// :three: <br>
+// :four: <br> <br> 
 
 
 
