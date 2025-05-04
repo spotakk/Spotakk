@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/byttencourt/byttencourt"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/Spotakk/Spotakk"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
 
 <br>
@@ -13,7 +13,7 @@ contributions in the last year
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
 
-# 💫 Sobre:
+# Sobre Mim:
 <br>
 :one: Bem-vindo!!<br> 
 :two: Análise e Desenvolvimento de Software <br>
