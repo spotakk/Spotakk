@@ -73,8 +73,8 @@ contributions in the last year
 
 # 📊 GitHub Stats:
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=byttencourt&theme=default&hide_border=false&include_all_commits=false&count_private=false"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byttencourt&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=byttencourt&theme=default&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spotakk&theme=default&hide_border=false&include_all_commits=false&count_private=false"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spotakk&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Spotakk&theme=default&hide_border=false"/>
 </div>
 
 
