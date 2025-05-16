@@ -56,7 +56,7 @@
       <br>Bash/shell
     </td>
     <td align="center" width="96">
-        <img src="[https://skillicons.dev/icons?i=mysql](https://techstack-generator.vercel.app/mysql-icon.svg)" width="48" height="48" alt="mysql" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
       <br>MySQL
     </td>
   </tr>
