@@ -12,7 +12,7 @@
 **![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)-->
 
 
-# ÜBER MICH:
+# Über Mich:
 <br>
 :one: Willkommen!<br> 
 :two: Cybersecurity-Analyst <br>
