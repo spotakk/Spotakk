@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=000000&vCenter=true&width=500&lines=print('Hello%2C+World!')"/>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=000000&vCenter=true&width=500&lines=print('King%2C+Spotakk!')"/>
 
 </p>
 
