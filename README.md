@@ -40,19 +40,19 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://img.icons8.com/?size=100&id=LrwnNv6o7S75&format=png&color=000000" alt="icon" width="65" height="65" />
       <br>PowerShell
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <img src="https://img.icons8.com/?size=100&id=22183&format=png&color=FF0000" width="48" height="48" alt="HTML" />
       <br>Ruby
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://img.icons8.com/?size=100&id=19292&format=png&color=000000" width="48" height="48" alt="css" />
       <br>Bash/shell
     </td>
     <td align="center" width="96">
