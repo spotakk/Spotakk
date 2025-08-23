@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=000000&vCenter=true&width=500&lines=print('King%2C+Spotakk!')"/>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=000000&vCenter=true&width=500&lines=print('Kapz%2C+Spotakk!')"/>
 
 </p>
 
@@ -18,12 +18,7 @@
 :two: Cybersecurity-Analyst <br>
 
 
-
-## 🌐 Redes Sociais:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nyuuS6mK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rick.performance) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kapittan_) 
-
 ## ⚙️ Tecnologias e Ferramentas : 
-
 > Ferramentas e tecnologias
 
 <table>
