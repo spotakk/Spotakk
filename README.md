@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=000000&vCenter=true&width=500&lines=print('Kapz%2C+Spotakk!')"/>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=Ff0000&vCenter=true&width=500&lines=print('uau%2C+Spotakk!')"/>
 
 </p>
 
@@ -12,9 +12,8 @@
 **![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)-->
 
 
-# Über Mich:
-<br>
-:one: Willkommen!<br> 
+# its me baby
+<br> 
 :two: Cybersecurity-Analyst <br>
 
 
